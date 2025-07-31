@@ -1,3 +1,3 @@
-export const API_URL = "http://192.168.10.5:8000"
+export const API_URL = "https://team-manager-backend-production-e2ea.up.railway.app"
 
 
